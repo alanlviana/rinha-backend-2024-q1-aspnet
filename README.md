@@ -1,8 +1,8 @@
 # Submissão para Rinha de Backend, Segunda Edição: Controle de Concorrência (source)
 
-![.NET Core Logo](d3ef521/images/aspnet-logo.jpg?raw=true ".Net Core")
-![Postgresql Logo](d3ef521/images/postgresql-logo.webp?raw=true "Postgresql")
-![NGINX Logo](d3ef521/images/nginx.webp?raw=true "NGINX")
+![.NET Core Logo](images/aspnet-logo-v1.jpg?raw=true ".Net Core")
+![Postgresql Logo](images/postgresql-logo-v1.webp?raw=true "Postgresql")
+![NGINX Logo](images/nginx-v1.webp?raw=true "NGINX")
 
 # rinha-backend-2024-q1-aspnet
 Minha implementação para rinha de backend usando .net core.
