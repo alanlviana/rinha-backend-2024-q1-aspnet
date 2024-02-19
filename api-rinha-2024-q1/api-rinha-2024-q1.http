@@ -1,0 +1,18 @@
+@api_host = http://localhost:5284
+@api_docker = http://localhost:9999
+
+
+POST {{api_host}}/clientes/1/transacoes
+Accept: application/json
+content-type: application/json
+
+{
+  "valor": 1,
+  "tipo": "d",
+  "descricao": "remova"
+}
+###
+
+
+GET {{api_docker}}/clientes/1/extrato
+###
