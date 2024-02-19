@@ -16,4 +16,4 @@ Minha implementação para rinha de backend usando .net core.
 - [alanlviana / **rinha-backend-2024-q1-aspnet**](https://github.com/alanlviana/rinha-backend-2024-q1-aspnet)
 
 ## 📰 Meu blog - Em breve um artigo sobre esse projeto!
-- [www.alanlviana.com.br](https://https://alanlviana.com.br/)
+- [alanlviana.com.br](https://alanlviana.com.br/)
