@@ -1,8 +1,7 @@
 # Submissão para Rinha de Backend, Segunda Edição: Controle de Concorrência (source)
 
-<img src="./images/nginx.webp" alt="logo nginx" width="150" height="auto" align="left" style="margin: 38px 30px 0 0; ">
-<img src="./images/aspnet-logo.jpg" alt="logo aspnet core" width="150" height="auto" align="left" style="margin: 15px 30px 0 0;" />
-<img src="./images/postgresql-logo.webp" alt="logo postgres" width="100" height="auto" >
+![NGINX Logo](rimages/nginx.webp?raw=true "NGINX")
+
 
 # rinha-backend-2024-q1-aspnet
 Minha implementação para rinha de backend usando .net core.
