@@ -1,6 +1,6 @@
 # Submissão para Rinha de Backend, Segunda Edição: Controle de Concorrência (source)
 
-![NGINX Logo](rimages/nginx.webp?raw=true "NGINX")
+![NGINX Logo](images/nginx.webp?raw=true "NGINX")
 
 
 # rinha-backend-2024-q1-aspnet
